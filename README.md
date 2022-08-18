@@ -37,7 +37,7 @@ Use it as a just another text editor!
 
 ## Screenshots
 
-![Screenshot](/public/images/)
+![Screenshot](/screenshot-hz.png)
 
 <a name="Questions"></a>
 
