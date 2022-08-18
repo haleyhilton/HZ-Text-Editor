@@ -8,7 +8,7 @@ This project is covered under the MIT license.
 
 ## Description
 
-TBD
+HZ Text Editor takes an existing text editor app with starter code and adds further functionality as a PWA and the ability to function offline. Use it like any other text editor - and have fun!
 
 # Table of Contents
 
@@ -18,6 +18,8 @@ TBD
 
 - [Usage](#usage)
 
+- [Deployed Link](#deployed)
+
 - [Screenshots](#screenshots)
 
 - [Contact](#questions)
@@ -26,12 +28,31 @@ TBD
 
 ## Installation Instructions
 
+Looking to install the app? Run the following command to install the dependencies: 
+
+     npm install
+
+Then run the following command:
+
+`npm run start:dev`
+
+Then run:
+
+`npm run start`
+
+Check out http://localhost:3000/ to run the application 
+
 <a name="Usage"></a>
 
 ## Usage Information
 
-Use it as a just another text editor!
+Use it as a just another text editor! https://zitotexteditor.herokuapp.com/
 
+<a name="Deployed"></a>
+
+## Deployed Link
+
+The link to the deployed application is: https://zitotexteditor.herokuapp.com/
 
 <a name="Screenshots"></a>
 
