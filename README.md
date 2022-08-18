@@ -46,7 +46,7 @@ Check out http://localhost:3000/ to run the application
 
 ## Usage Information
 
-Use it as a just another text editor! https://zitotexteditor.herokuapp.com/
+Use it as a just another text editor! 
 
 <a name="Deployed"></a>
 
